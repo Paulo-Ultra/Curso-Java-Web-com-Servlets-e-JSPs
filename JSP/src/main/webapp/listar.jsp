@@ -26,7 +26,7 @@
 		Set<Object> keys = props.keySet();
 	%>
 	
-	<table border="1" width="100%">
+	<table style="border: 1; width:100%;">
 		<tr>
 			<td><strong>Nome</strong></td>
 			<td><strong>Valor</strong></td>
