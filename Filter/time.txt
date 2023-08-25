@@ -1,0 +1,4 @@
+URI /filter/processar: 2017ms
+URI /filter/processar: 2002ms
+URI /filter/teste.jsp: 852ms
+URI /filter/teste.jsp: 3ms
